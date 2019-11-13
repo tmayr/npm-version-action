@@ -1,0 +1,22 @@
+{
+  "name": "npm-version-action",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmayr/npm-version-action.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmayr/npm-version-action/issues"
+  },
+  "homepage": "https://github.com/tmayr/npm-version-action#readme",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "actions-toolkit": "^2.2.0"
+  }
+}
